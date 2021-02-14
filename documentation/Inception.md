@@ -187,23 +187,31 @@ taking notes should be quick and easily shareable
 ### Interview 9:
 
 **Summary:**
+Taking notes during a lecture is hard, so a good user experience is imperative. A streamlined experience is also
+important for saving and accessing notes.
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:**
+**Interviewer:** Nick Botticelli
+**Interviewee:** Trevor Rapp
+**When:** February 10, 2021
+**Consumer Segments:** STEM college students
 
 **Key Insights**
-
+Note-taking while listening to a lecture is difficult; organization options like index, table of references; needs to
+have a good UI; anti-distraction; lots of features like highlighting.
 
 **Representative Quotes**
-
+* "For note-taking, [the app] needs to be streamlined... needs to be easy to access like Google docs... and also not cluttered."
+* "Needs to be convenient enough to use while listening to a lecture."
 
 **Hypotheses That Were Validated**
-
+* Note-taking in a live lecture is hard
+* Notes need to be easily savable and accessible
 
 **Assessment: Must have / Nice to have / Don't care**
-
+* Must have - Easy user interface
+* Must have - Notes saved and accessed through the cloud seamlessly (similar to Google docs)
+* Nice to have - Note-taking features such as highlighting, good formatting (table of index, etc.)
+* Nice to have - A way to easily share notes
 
 ## 4. Final Value Proposition and Consumer Segments
 
