@@ -1,4 +1,3 @@
-
 # Project Inception
 Group 04 - "[Lumberjack Notes]"
 Date and location: February 14, 2021
