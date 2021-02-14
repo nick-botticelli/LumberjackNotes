@@ -164,22 +164,25 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 ### Interview 8:
 
 **Summary:**
+21 year old microbiology student at NAU. Likes to take notes both virtually and traditionally. Would love it if the app was capable of drawing chemical compounds.
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:**
+**Interviewer:** Stefan Mihailovic
+**Interviewee:** Marko Brown
+**When:** February 8, 2021
+**Consumer Segments:** Microbiology Students
 
 **Key Insights**
+Easy to use, upload, and share notes. Should be specialized for organic chemistry compounds when taking notes. It should have an ability to be compatible with drawing tables. It should also be able to import different types of files.
 
 
 **Representative Quotes**
+“I want something that can quickly import different types of files, and allow me to modify them either through keyboard or drawing tablet. Something that supports chemistry type of notes, as well as easily shareable with other students.”
 
 
 **Hypotheses That Were Validated**
+taking notes should be quick and easily shareable
 
-
-**Assessment: Must have / Nice to have / Don't care**
+**Assessment: Nice to have **
 
 ### Interview 9:
 
