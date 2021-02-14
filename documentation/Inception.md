@@ -5,7 +5,7 @@ Group Members: Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas B
 
 ## 1. Introduction
 
-Lumberjack Notes is a student-focused mobile notes app that aims for a simple notes-taking experience. While simplicity is expected, Lumberjack Notes includes several useful features that help the average student succeed in their classes: Cloud Sharing and student groups are some of the features that Lumberjack Notes will offer.
+Lumberjack Notes is a student-focused mobile notes app that aims for a simple notes-taking experience. While simplicity is expected, Lumberjack Notes includes several useful features that help the average student succeed in their classes. Cloud Sharing and student groups are some of the features that Lumberjack Notes will offer.
 
 ## 2. Initial Value Proposition and Consumer Segments
 
@@ -23,39 +23,36 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 ### Interview 1:
 
 **Summary:**
- Friend, 19 years old. Not used to taking many notes. 
+ Friend, 19 years old. Not used to taking many notes.
 
 **Interviewer:** Armando Martinez\
 
 **Interviewee:** Lino Reyes\
 
-**When:**  February 9\
+**When:** February 9\
 
 **Consumer Segments:**
 - People that don’t take notes regularly
 
 **Key Insights**
-- Easy to use. 
-- Good Design. 
-- Free. 
+- Easy to use.
+- Good Design.
+- Free.
 
 **Representative Quotes**
-
-   “Honestly, I have not taken notes with phone apps because it takes too much time to get to the taking notes part.”
-
-   “ I would use one of these apps if there was an option that you click on the app and you can start typing at that moment.”
-
-   “Please no “ Enter a title before....”. If I want to take notes, I want to take them as soon as possible” 
+- “Honestly, I have not taken notes with phone apps because it takes too much time to get to the taking notes part.”
+- “ I would use one of these apps if there was an option that you click on the app and you can start typing at that moment.”
+- “Please no “ Enter a title before....”. If I want to take notes, I want to take them as soon as possible”
 
 **Assessment: Must have / Nice to have / Don't care**
-- Simplicity should be the priority 
+- Simplicity should be the priority
 - Clear user interactions should be aimed for
-- Good performance is important 
+- Good performance is important
 
 ### Interview 2:
 
 **Summary:**
-Friend, 20 years old. Takes notes regularly. Good standing student. 
+Friend, 20 years old. Takes notes regularly. Good standing student.
 
 **Interviewer:** Armando Martinez\
 
@@ -67,27 +64,25 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 - People that are used to taking notes.
 
 **Key Insights**
-- Organization is important. 
+- Organization is important.
 - Customization would be welcomed
 
 **Representative Quotes**
-
-“I like when apps let you organize notes per class” 
-
-“I would like nice colors and easy ways to color-divide my notes”
+- “I like when apps let you organize notes per class”
+- “I would like nice colors and easy ways to color-divide my notes”
 
 **Assessment: Must have / Nice to have / Don't care**
 - The ability to interact with the actual notes is important
-- Color coding would be nice to implement 
+- Color coding would be nice to implement
 
 ### Interview 3:
 
-**Summary:** friend, 22 years old, very organized student, likes taking notes on his ipad, wants the app to be engineering friendly(recognize mathematical equations, graphs, charts, etc.)
+**Summary:** Friend, 22 years old, very organized student, likes taking notes on his ipad, wants the app to be engineering friendly(recognize mathematical equations, graphs, charts, etc.)
 
 **Interviewer:** Kyle Austria\
 **Interviewee:** Radley Rel\
 **When:** February 10, 2021\
-**Consumer Segments:** 
+**Consumer Segments:**
 - Engineering Students
 - Organized People
 
@@ -247,23 +242,27 @@ with lots of different ways to highlight, add color, and create diagrams.
 **Summary:**
 21 year old microbiology student at NAU. Likes to take notes both virtually and traditionally. Would love it if the app was capable of drawing chemical compounds.
 
-**Interviewer:** Stefan Mihailovic
-**Interviewee:** Marko Brown
-**When:** February 8, 2021
+**Interviewer:** Stefan Mihailovic\
+**Interviewee:** Marko Brown\
+**When:** February 8, 2021\
 **Consumer Segments:** Microbiology Students
 
 **Key Insights**
-Easy to use, upload, and share notes. Should be specialized for organic chemistry compounds when taking notes. It should have an ability to be compatible with drawing tables. It should also be able to import different types of files.
-
+- Easy to use, upload, and share notes.
+- Should be specialized for organic chemistry compounds when taking notes.
+- It should have an ability to be compatible with drawing tables.
+- It should also be able to import different types of files.
 
 **Representative Quotes**
-“I want something that can quickly import different types of files, and allow me to modify them either through keyboard or drawing tablet. Something that supports chemistry type of notes, as well as easily shareable with other students.”
-
+- “I want something that can quickly import different types of files, and allow me to modify them either through keyboard or drawing tablet. Something that supports chemistry type of notes, as well as easily shareable with other students.”
 
 **Hypotheses That Were Validated**
-taking notes should be quick and easily shareable
+- taking notes should be quick and easily shareable
 
 **Assessment: Nice to have **
+- Must have - easy to share with other students
+- Must have - ability to write equations and chemical compounds
+- Nice to have - compatibility with drawing tablets
 
 ### Interview 9:
 
@@ -277,8 +276,10 @@ important for saving and accessing notes.
 **Consumer Segments:** STEM college students\
 
 **Key Insights**
-Note-taking while listening to a lecture is difficult; organization options like index, table of references; needs to
-have a good UI; anti-distraction; lots of features like highlighting.
+* Note-taking while listening to a lecture is difficult
+* organization options like index, table of references
+* needs to have a good UI anti-distraction
+* lots of features like highlighting
 
 **Representative Quotes**
 * "For note-taking, [the app] needs to be streamlined... needs to be easy to access like Google docs... and also not cluttered."
@@ -298,5 +299,9 @@ have a good UI; anti-distraction; lots of features like highlighting.
 
 **Final Value Proposition:**
 
+Lumberjack Notes is a free note-taking application designed to help students and professionals collaborate and share their notes with their colleagues.
 
 **Consumer Segments:**
+- High school students
+- University students
+- Professionals
