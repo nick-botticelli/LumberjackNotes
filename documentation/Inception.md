@@ -1,4 +1,3 @@
-
 # Project Inception
 Group 04 - "[Lumberjack Notes]"
 Date and location: February 14, 2021
@@ -258,10 +257,10 @@ taking notes should be quick and easily shareable
 Taking notes during a lecture is hard, so a good user experience is imperative. A streamlined experience is also
 important for saving and accessing notes.
 
-**Interviewer:** Nick Botticelli
-**Interviewee:** Trevor Rapp
-**When:** February 10, 2021
-**Consumer Segments:** STEM college students
+**Interviewer:** Nick Botticelli\
+**Interviewee:** Trevor Rapp\
+**When:** February 10, 2021\
+**Consumer Segments:** STEM college students\
 
 **Key Insights**
 Note-taking while listening to a lecture is difficult; organization options like index, table of references; needs to
