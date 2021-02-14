@@ -1,3 +1,4 @@
+
 # Project Inception
 Group 04 - "[Lumberjack Notes]"
 Date and location: February 14, 2021
@@ -207,3 +208,5 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 
 
 **Consumer Segments:**
+
+
