@@ -1,3 +1,4 @@
+
 # Project Inception
 Group 04 - "[Lumberjack Notes]"
 Date and location: February 14, 2021
@@ -23,7 +24,7 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 ### Interview 1:
 
 **Summary:**
- Friend, 19 years old. Not used to taking many notes. 
+ Friend, 19 years old. Not used to taking many notes.
 
 **Interviewer:** Armando Martinez\
 
@@ -35,9 +36,9 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 - People that don’t take notes regularly
 
 **Key Insights**
-- Easy to use. 
-- Good Design. 
-- Free. 
+- Easy to use.
+- Good Design.
+- Free.
 
 **Representative Quotes**
 
@@ -45,17 +46,17 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 
    “ I would use one of these apps if there was an option that you click on the app and you can start typing at that moment.”
 
-   “Please no “ Enter a title before....”. If I want to take notes, I want to take them as soon as possible” 
+   “Please no “ Enter a title before....”. If I want to take notes, I want to take them as soon as possible”
 
 **Assessment: Must have / Nice to have / Don't care**
-- Simplicity should be the priority 
+- Simplicity should be the priority
 - Clear user interactions should be aimed for
-- Good performance is important 
+- Good performance is important
 
 ### Interview 2:
 
 **Summary:**
-Friend, 20 years old. Takes notes regularly. Good standing student. 
+Friend, 20 years old. Takes notes regularly. Good standing student.
 
 **Interviewer:** Armando Martinez\
 
@@ -67,72 +68,58 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 - People that are used to taking notes.
 
 **Key Insights**
-- Organization is important. 
+- Organization is important.
 - Customization would be welcomed
 
 **Representative Quotes**
 
-“I like when apps let you organize notes per class” 
+“I like when apps let you organize notes per class”
 
 “I would like nice colors and easy ways to color-divide my notes”
 
 **Assessment: Must have / Nice to have / Don't care**
 - The ability to interact with the actual notes is important
-- Color coding would be nice to implement 
+- Color coding would be nice to implement
 
 ### Interview 3:
 
-**Summary:** friend, 22 years old, very organized student, likes taking notes on his ipad, wants the app to be engineering friendly(recognize mathematical equations, graphs, charts, etc.)
+**Summary:**
 
-**Interviewer:** Kyle Austria\
-**Interviewee:** Radley Rel\
-**When:** February 10, 2021\
-**Consumer Segments:** 
-- Engineering Students
-- Organized People
+**Interviewer:** \
+**Interviewee:** \
+**When:** \
+**Consumer Segments:**
 
 **Key Insights**
-- user friendly
-- easy to save and share with colleagues if needed
-- variety of organization options to mark key points
-- be able to recognize handwriting and written equations(specifically for engineering/math students)
 
 
 **Representative Quotes**
-- “ I want something that will make it quick and easy for me to share my notes with my group instead of having to find out their email, like air dropping a photo on a phone"
-- “Sometimes I can fall a little behind when taking notes in lectures, especially when it comes to those long equations, making it harder for me to really focus on what the professor is saying. I want it to be able to recognize math equations, I think that will be really beneficial”
 
 
 **Hypotheses That Were Validated**
-- taking notes should be quick and easy
+
 
 **Assessment: Must have / Nice to have / Don't care**
-- nice to have
 
 ### Interview 4:
 
-**Summary:** 23 years old, Served in the NAVY, main thing is having notes save automatically, takes written notes frequently, would be nice to have an app for note taking
+**Summary:**
 
-**Interviewer:** Kyle Austria\
-**Interviewee:** Caleb Mennenga\
-**When:** February 11, 2021\
+**Interviewer:** \
+**Interviewee:** \
+**When:** \
 **Consumer Segments:**
-- Petty Officer Third Class(NAVY)
+
 **Key Insights**
-- automatic save
-- be able to import images and label them
+
 
 **Representative Quotes**
-- "A note taking app must save my notes automatically if I’m going to download it. I need to be sure that I don’t lose the information I get for reports because they can be pretty long”
 
-- “Sometimes I’ll label certain images for evidence, so it’d be really important for me to be able to do that on the app.”
 
 **Hypotheses That Were Validated**
-- Notes are essential in every field
-- Images can provide a lot of additional information
+
 
 **Assessment: Must have / Nice to have / Don't care**
-- Nice to have
 
 ### Interview 5:
 
@@ -219,9 +206,9 @@ with lots of different ways to highlight, add color, and create diagrams.
 **Interviewee:** Allison Rampata\
 **When:** February 12th, 2021\
 **Consumer Segments:**
- - Student
- - Note-taker
- - Organized Individual
+ - students
+ - Note-takers
+ - Organized Individuals
 
 **Key Insights**
  - The application should allow the user to download PDF documents from a website
@@ -232,15 +219,30 @@ with lots of different ways to highlight, add color, and create diagrams.
  - This application should allow the user to create separate folders for their notes.
  - This application should allow the users to highlight, italicize, bolden.
  - The user should be able to create word art.
-
+ - The application should allow users to collaborate on notes within the app
 
 **Representative Quotes**
-
+ - “Note-taking is already a tedious process, so the app needs to be
+    user-friendly and easy to navigate."
+ - "I should be able to create notes quickly and edit them quickly.”
+ - “I like to keep my notes organized, so formatting options would be very
+    helpful.”
+ - “I am a visual learner, so I would like to be able to create drawings and
+    diagrams in my notes”
 
 **Hypotheses That Were Validated**
-
+ - User-friendliness and ease-of-use are the extremely important to the user
+   when using a note-taking app.
 
 **Assessment: Must have / Nice to have / Don't care**
+ - Must have - Import/Export options for PDF files
+ - Must have - Way of collaborating with other people on a single document
+ - Must have - Organization and formatting options
+ - Nice to have - Bolden, Italicize, and underlining options
+ - Nice to have - Multicolored text options
+ - Nice to have - Way of creating diagrams and charts
+ - Don't care - College-ruled lines and margins
+
 
 ### Interview 8:
 
@@ -271,10 +273,10 @@ taking notes should be quick and easily shareable
 Taking notes during a lecture is hard, so a good user experience is imperative. A streamlined experience is also
 important for saving and accessing notes.
 
-**Interviewer:** Nick Botticelli\
-**Interviewee:** Trevor Rapp\
-**When:** February 10, 2021\
-**Consumer Segments:** STEM college students\
+**Interviewer:** Nick Botticelli
+**Interviewee:** Trevor Rapp
+**When:** February 10, 2021
+**Consumer Segments:** STEM college students
 
 **Key Insights**
 Note-taking while listening to a lecture is difficult; organization options like index, table of references; needs to
