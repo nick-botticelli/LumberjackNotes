@@ -1,5 +1,5 @@
 # Project Inception
-_Group 04 - "[Lumberjack Notes]"
+Group 04 - "[Lumberjack Notes]"
 Date and location: February 14, 2021
 Group Members: Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas Botticelli, Collin Rampata, Kyle Austria
 
