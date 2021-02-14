@@ -144,13 +144,27 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 ### Interview 7:
 
 **Summary:**
+17 year old High school student. Takes lots of notes on her iPad using an app
+called Notability and takes handwritten notes as well. She would love an app
+with lots of different ways to highlight, add color, and create diagrams.
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
+**Interviewer:** Collin Rampata\
+**Interviewee:** Allison Rampata\
+**When:** February 12th, 2021\
 **Consumer Segments:**
+ - Student
+ - Note-taker
+ - Organized Individual
 
 **Key Insights**
+ - The application should allow the user to download PDF documents from a website
+ - The application should allow the user to export their documents as PDF files
+ - This application should allow the user to type notes in multiple colors
+ - This application should allow the user to construct diagrams and charts
+ - The application should be user-friendly and easy to navigate
+ - This application should allow the user to create separate folders for their notes.
+ - This application should allow the users to highlight, italicize, bolden.
+ - The user should be able to create word art.
 
 
 **Representative Quotes**
@@ -211,5 +225,3 @@ taking notes should be quick and easily shareable
 
 
 **Consumer Segments:**
-
-
