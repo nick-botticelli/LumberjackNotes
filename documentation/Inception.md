@@ -83,43 +83,57 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 
 ### Interview 3:
 
-**Summary:**
+**Summary:** friend, 22 years old, very organized student, likes taking notes on his ipad, wants the app to be engineering friendly(recognize mathematical equations, graphs, charts, etc.)
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
-**Consumer Segments:**
+**Interviewer:** Kyle Austria\
+**Interviewee:** Radley Rel\
+**When:** February 10, 2021\
+**Consumer Segments:** 
+- Engineering Students
+- Organized People
 
 **Key Insights**
+- user friendly
+- easy to save and share with colleagues if needed
+- variety of organization options to mark key points
+- be able to recognize handwriting and written equations(specifically for engineering/math students)
 
 
 **Representative Quotes**
+- “ I want something that will make it quick and easy for me to share my notes with my group instead of having to find out their email, like air dropping a photo on a phone"
+- “Sometimes I can fall a little behind when taking notes in lectures, especially when it comes to those long equations, making it harder for me to really focus on what the professor is saying. I want it to be able to recognize math equations, I think that will be really beneficial”
 
 
 **Hypotheses That Were Validated**
-
+- taking notes should be quick and easy
 
 **Assessment: Must have / Nice to have / Don't care**
+- nice to have
 
 ### Interview 4:
 
-**Summary:**
+**Summary:** 23 years old, Served in the NAVY, main thing is having notes save automatically, takes written notes frequently, would be nice to have an app for note taking
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
+**Interviewer:** Kyle Austria\
+**Interviewee:** Caleb Mennenga\
+**When:** February 11, 2021\
 **Consumer Segments:**
-
+- Petty Officer Third Class(NAVY)
 **Key Insights**
-
+- automatic save
+- be able to import images and label them
 
 **Representative Quotes**
+- "A note taking app must save my notes automatically if I’m going to download it. I need to be sure that I don’t lose the information I get for reports because they can be pretty long”
 
+- “Sometimes I’ll label certain images for evidence, so it’d be really important for me to be able to do that on the app.”
 
 **Hypotheses That Were Validated**
-
+- Notes are essential in every field
+- Images can provide a lot of additional information
 
 **Assessment: Must have / Nice to have / Don't care**
+- Nice to have
 
 ### Interview 5:
 
