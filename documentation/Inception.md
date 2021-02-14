@@ -24,42 +24,62 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 ### Interview 1:
 
 **Summary:**
+ Friend, 19 years old. Not used to taking many notes. 
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
+**Interviewer:** Armando Martinez\
+
+**Interviewee:** Lino Reyes\
+
+**When:**  February 9\
+
 **Consumer Segments:**
+- People that don’t take notes regularly
 
 **Key Insights**
-
+- Easy to use. 
+- Good Design. 
+- Free. 
 
 **Representative Quotes**
 
+   “Honestly, I have not taken notes with phone apps because it takes too much time to get to the taking notes part.”
 
-**Hypotheses That Were Validated**
+   “ I would use one of these apps if there was an option that you click on the app and you can start typing at that moment.”
 
+   “Please no “ Enter a title before....”. If I want to take notes, I want to take them as soon as possible” 
 
 **Assessment: Must have / Nice to have / Don't care**
+- Simplicity should be the priority 
+- Clear user interactions should be aimed for
+- Good performance is important 
 
 ### Interview 2:
 
 **Summary:**
+Friend, 20 years old. Takes notes regularly. Good standing student. 
 
-**Interviewer:** \
-**Interviewee:** \
-**When:** \
+**Interviewer:** Armando Martinez\
+
+**Interviewee:** Noelia Rangel\
+
+**When:** February 9\
+
 **Consumer Segments:**
+- People that are used to taking notes.
 
 **Key Insights**
-
+- Organization is important. 
+- Customization would be welcomed
 
 **Representative Quotes**
 
+“I like when apps let you organize notes per class” 
 
-**Hypotheses That Were Validated**
-
+“I would like nice colors and easy ways to color-divide my notes”
 
 **Assessment: Must have / Nice to have / Don't care**
+- The ability to interact with the actual notes is important
+- Color coding would be nice to implement 
 
 ### Interview 3:
 
