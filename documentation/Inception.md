@@ -302,7 +302,7 @@ important for saving and accessing notes.
 **Interviewer:** Nick Botticelli\
 **Interviewee:** Trevor Rapp\
 **When:** February 10, 2021\
-**Consumer Segments:** STEM college students\
+**Consumer Segments:** STEM college students
 
 **Key Insights**
 * Note-taking while listening to a lecture is difficult
