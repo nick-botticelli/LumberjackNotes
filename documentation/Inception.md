@@ -5,13 +5,16 @@ Group Members: Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas B
 
 ## 1. Introduction
 
-Lumberjack Notes is a student-focused mobile notes app that aims for a simple notes-taking experience. While simplicity is expected, Lumberjack Notes includes several useful features that help the average student succeed in their classes. Cloud Sharing and student groups are some of the features that Lumberjack Notes will offer.
+Lumberjack Notes is a student-focused mobile notes app that aims for a simple notes-taking experience. While simplicity
+is expected, Lumberjack Notes includes several useful features that help the average student succeed in their classes.
+Cloud Sharing and student groups are some of the features that Lumberjack Notes will offer.
 
 ## 2. Initial Value Proposition and Consumer Segments
 
 **Initial Value Proposition:**
 
-Lumberjack Notes is a free note-taking application designed to help NAU students share and discuss notes with their fellow classmates.
+Lumberjack Notes is a free note-taking application designed to help NAU students share and discuss notes with their
+fellow classmates.
 
 **Initial Consumer Segments:**
 
@@ -38,7 +41,8 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 
 **Representative Quotes**
 - “Honestly, I have not taken notes with phone apps because it takes too much time to get to the taking notes part.”
-- “ I would use one of these apps if there was an option that you click on the app and you can start typing at that moment.”
+- “ I would use one of these apps if there was an option that you click on the app and you can start typing at that
+moment.”
 - “Please no “ Enter a title before....”. If I want to take notes, I want to take them as soon as possible”
 
 **Assessment: Must have / Nice to have / Don't care**
@@ -71,7 +75,8 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 
 ### Interview 3:
 
-**Summary:** Friend, 22 years old, very organized student, likes taking notes on his ipad, wants the app to be engineering friendly(recognize mathematical equations, graphs, charts, etc.)
+**Summary:** Friend, 22 years old, very organized student, likes taking notes on his ipad, wants the app to be
+engineering friendly(recognize mathematical equations, graphs, charts, etc.)
 
 **Interviewer:** Kyle Austria\
 **Interviewee:** Radley Rel\
@@ -88,8 +93,11 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 
 
 **Representative Quotes**
-- “ I want something that will make it quick and easy for me to share my notes with my group instead of having to find out their email, like air dropping a photo on a phone"
-- “Sometimes I can fall a little behind when taking notes in lectures, especially when it comes to those long equations, making it harder for me to really focus on what the professor is saying. I want it to be able to recognize math equations, I think that will be really beneficial”
+- “ I want something that will make it quick and easy for me to share my notes with my group instead of having to find
+out their email, like air dropping a photo on a phone"
+- “Sometimes I can fall a little behind when taking notes in lectures, especially when it comes to those long
+equations, making it harder for me to really focus on what the professor is saying. I want it to be able to recognize
+math equations, I think that will be really beneficial”
 
 
 **Hypotheses That Were Validated**
@@ -100,7 +108,8 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 
 ### Interview 4:
 
-**Summary:** 23 years old, Served in the NAVY, main thing is having notes save automatically, takes written notes frequently, would be nice to have an app for note taking
+**Summary:** 23 years old, Served in the NAVY, main thing is having notes save automatically, takes written notes
+frequently, would be nice to have an app for note taking
 
 **Interviewer:** Kyle Austria\
 **Interviewee:** Caleb Mennenga\
@@ -112,9 +121,11 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 - be able to import images and label them
 
 **Representative Quotes**
-- "A note taking app must save my notes automatically if I’m going to download it. I need to be sure that I don’t lose the information I get for reports because they can be pretty long”
+- "A note taking app must save my notes automatically if I’m going to download it. I need to be sure that I don’t lose
+the information I get for reports because they can be pretty long”
 
-- “Sometimes I’ll label certain images for evidence, so it’d be really important for me to be able to do that on the app.”
+- “Sometimes I’ll label certain images for evidence, so it’d be really important for me to be able to do that on the
+app.”
 
 **Hypotheses That Were Validated**
 - Notes are essential in every field
@@ -125,7 +136,9 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 
 ### Interview 5:
 
-**Summary:** 23 year old Northern Arizona University graduate. Is very experienced with a variety of note-taking applications on iPad and MacOS. Discussed features that were important to her specific workflow. Discussed what other applications could do better.
+**Summary:** 23 year old Northern Arizona University graduate. Is very experienced with a variety of note-taking
+applications on iPad and MacOS. Discussed features that were important to her specific workflow. Discussed what other
+applications could do better.
 
 **Interviewer:** Gustavo Valencia\
 **Interviewee:** Amy Martinez\
@@ -143,9 +156,11 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 - Would rather pay for the application if that means there are no ads (so long as the price is reasonable)
 
 **Representative Quotes**
-- “I feel like a very clean sheet design is very appreciated. A minimalistic design is a must as I don’t want it to be overwhelming.”
+- “I feel like a very clean sheet design is very appreciated. A minimalistic design is a must as I don’t want it to be
+overwhelming.”
 - “Note pages should have the option for blank, college-ruled, and grid style pages.”
-- “It is important for notes to print out in the way you wrote them. Other note-taking apps tend to reformat notes when printed, which is very inconvenient.”
+- “It is important for notes to print out in the way you wrote them. Other note-taking apps tend to reformat notes when
+printed, which is very inconvenient.”
 
 **Hypotheses That Were Validated**
 - Users find a minimalistic/aesthetically pleasing design very desirable
@@ -159,7 +174,9 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 
 ### Interview 6:
 
-**Summary:** 18 year old University of Arizona freshman. Is mainly a user of OneNote on iPad. Discussed features that were important to her specific workflow. Discussed what other applications could do better and which features are worth integrating into our application.
+**Summary:** 18 year old University of Arizona freshman. Is mainly a user of OneNote on iPad. Discussed features that
+were important to her specific workflow. Discussed what other applications could do better and which features are worth
+integrating into our application.
 
 **Interviewer:** Gustavo Valencia\
 **Interviewee:** Diana Valencia\
@@ -180,9 +197,12 @@ Friend, 20 years old. Takes notes regularly. Good standing student.
 - Application should have a lasso-style tool for copying and moving drawn material
 
 **Representative Quotes**
-- “The app should have a draw-to shape feature. As a Biology major, I often need to draw diagrams and having this feature would make my notes a lot cleaner.”
-- “I like when there is an option to choose between a light mode and dark mode. For certain assignments I need to turn in, it looks cleaner when I annotate documents in different lighting modes.”
-- “I wish there was a way to group old or inactive notebooks into an easy to reference way. For example, OneNote just has the option to close and open notebooks, which is inconvenient when I need to reference notes from past classes.”
+- “The app should have a draw-to shape feature. As a Biology major, I often need to draw diagrams and having this
+feature would make my notes a lot cleaner.”
+- “I like when there is an option to choose between a light mode and dark mode. For certain assignments I need to turn
+in, it looks cleaner when I annotate documents in different lighting modes.”
+- “I wish there was a way to group old or inactive notebooks into an easy to reference way. For example, OneNote just
+has the option to close and open notebooks, which is inconvenient when I need to reference notes from past classes.”
 
 **Hypotheses That Were Validated**
 - Users find organization methods crucial for effective note-taking
@@ -244,7 +264,8 @@ with lots of different ways to highlight, add color, and create diagrams.
 ### Interview 8:
 
 **Summary:**
-21 year old microbiology student at NAU. Likes to take notes both virtually and traditionally. Would love it if the app was capable of drawing chemical compounds.
+21 year old microbiology student at NAU. Likes to take notes both virtually and traditionally. Would love it if the app
+was capable of drawing chemical compounds.
 
 **Interviewer:** Stefan Mihailovic\
 **Interviewee:** Marko Brown\
@@ -258,7 +279,9 @@ with lots of different ways to highlight, add color, and create diagrams.
 - It should also be able to import different types of files.
 
 **Representative Quotes**
-- “I want something that can quickly import different types of files, and allow me to modify them either through keyboard or drawing tablet. Something that supports chemistry type of notes, as well as easily shareable with other students.”
+- “I want something that can quickly import different types of files, and allow me to modify them either through
+keyboard or drawing tablet. Something that supports chemistry type of notes, as well as easily shareable with other
+students.”
 
 **Hypotheses That Were Validated**
 - taking notes should be quick and easily shareable
@@ -286,7 +309,8 @@ important for saving and accessing notes.
 * lots of features like highlighting
 
 **Representative Quotes**
-* "For note-taking, [the app] needs to be streamlined... needs to be easy to access like Google docs... and also not cluttered."
+* "For note-taking, [the app] needs to be streamlined... needs to be easy to access like Google docs... and also not
+cluttered."
 * "Needs to be convenient enough to use while listening to a lecture."
 
 **Hypotheses That Were Validated**
@@ -303,7 +327,8 @@ important for saving and accessing notes.
 
 **Final Value Proposition:**
 
-Lumberjack Notes is a free note-taking application designed to help students and professionals collaborate and share their notes with their colleagues.
+Lumberjack Notes is a free note-taking application designed to help students and professionals collaborate and share
+their notes with their colleagues.
 
 **Consumer Segments:**
 - High school students
