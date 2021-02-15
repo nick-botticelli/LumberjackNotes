@@ -26,11 +26,8 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
  Friend, 19 years old. Not used to taking many notes.
 
 **Interviewer:** Armando Martinez\
-
 **Interviewee:** Lino Reyes\
-
 **When:** February 9\
-
 **Consumer Segments:**
 - People that don’t take notes regularly
 
@@ -55,11 +52,8 @@ Lumberjack Notes is a free note-taking application designed to help NAU students
 Friend, 20 years old. Takes notes regularly. Good standing student.
 
 **Interviewer:** Armando Martinez\
-
 **Interviewee:** Noelia Rangel\
-
 **When:** February 9\
-
 **Consumer Segments:**
 - People that are used to taking notes.
 
