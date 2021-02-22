@@ -1,8 +1,6 @@
 # Requirements
-Group 04 - "[Lumberjack Notes]"
-
-Date and location: February 21, 2021
-
+Group 04 - "[Lumberjack Notes]"  
+Date and location: February 21, 2021  
 Group Members: Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas Botticelli, Collin Rampata, Kyle Austria
 
 ## 1. Positioning
@@ -20,23 +18,20 @@ accessibility and mobile-centered performance to help students stay more engaged
 
 ### 1.3. Value proposition and consumer segment
 
-**Value Proposition**
+**Value Proposition:**
 
 Lumberjack Notes is a free note-taking application designed to help students and professionals collaborate and share
 their notes with their colleagues.
 
-**Consumer Segment**
+**Consumer Segment:**
 
 High school students, university students, and professionals that need a more efficient way to take detailed notes.
 
 ## 2. Stakeholders
 
-**Users:** High school students, university students, and professionals.
-
-**Clients:** Academic Institutions and Businesses.
-
-**Competitors:** Evernote.
-
+**Users:** High school students, university students, and professionals.  
+**Clients:** Academic Institutions and Businesses.  
+**Competitors:** Evernote.  
 **Developers:** Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas Botticelli, Collin Rampata, and Kyle Austria.
 
 ## 3. Functional requirements
