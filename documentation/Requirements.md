@@ -77,6 +77,7 @@ create notes. After which, we will implement the rest of our functional requirem
 2. The user has joined a group formed by either an institution or business
 3. The user can write or draw notes
 4. The user should be able to save their notes and come back to them at a later date
+
 **Alternate Flow**:
 - None
 
