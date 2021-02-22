@@ -123,23 +123,21 @@ create notes. After which, we will implement the rest of our functional requirem
 1. The user downloads the application and opens it
 2. The user inputs their account information
 
-**Alternate Flow**:
-2. If the user already has an existing account, they can input their account credentials and log in.
+**Alternate Flow**:  
+2. If the user already has an existing account, they will be alerted that their credentials are already in use with an
+existing account
 
-**Use Case**: Share notes
-**Actor**: User
-**Description**: The user shares notes with other users.
-**Preconditions**: The user has an account and is logged in.
-**Post-conditions**: The notes are uploaded to the system and are accessible by the other users.
-**Main Flow**: 
-1. The user selects the notes they want to upload.
+**Use Case**: Share notes  
+**Actor**: User  
+**Description**: The user shares notes with other users  
+**Preconditions**: The user has a document to share  
+**Post-conditions**: The notes are uploaded to the system and are accessible by the other users  
+**Main Flow**:
+1. The user selects the notes they want to share.
 2. The user selects what other users get access to the notes.
 
-**Alternate Flow**: 
-1. The user selects a file format not supported by the system.
-2. The upload gets canceled.
-
-
+**Alternate Flow**:
+- None
 
 ## 7. User stories
 - “As a college student, I want to be able to insert documents into my notes so I can annotate and write other notes around them.”
@@ -157,9 +155,9 @@ experience.
 gain further insight.”
 - “As a professional, I want to be able to group my documents into folders so that I can keep each of my projects
 organized.”
-- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can 
+- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can
 make the most out of my time in classes.”
-- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and 
+- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and
 study better as a whole.”
 - "As a chemistry student, I want to be able to easily add and write chemical structures in my notes."
 - "As a college student, I want to be able to upload notes in different file formats.”
