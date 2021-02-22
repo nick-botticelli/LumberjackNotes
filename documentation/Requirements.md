@@ -13,8 +13,8 @@ of which is an inefficient workflow.
 
 For students and professionals who need a more efficient way to take detailed notes, Lumberjack Notes is a note-taking
 app that provides an accessible way to organize and share ideas, providing cloud sharing access to comfortably share
-your notes with other students; unlike other famous note-taking apps like Evernote, our app will be focused on simplicity,
-accessibility and mobile-centered performance to help students stay more engaged in class while taking notes.
+your notes with other students and colleagues; unlike other famous note-taking apps like Evernote, our app will be
+focused on simplicity, accessibility and mobile-centered performance to help users stay more engaged while taking notes.
 
 ### 1.3. Value proposition and consumer segment
 
@@ -36,6 +36,7 @@ High school students, university students, and professionals that need a more ef
 
 ## 3. Functional requirements
 
+- Note-taking: Ability to take notes within the application
 - Note Sharing: Being able to share notes with colleagues.
 - Ease of Use: Effective user interface.
 - Customizability: Dark mode, default fonts, and moveable/removeable interface elements.
@@ -65,35 +66,33 @@ create notes. After which, we will implement the rest of our functional requirem
 **Use Case**: Take Notes  
 **Actor**: User  
 **Description**: The user creates a page where they are able to take notes  
-**Preconditions**: The user has created an account and is part of an institution or business organization  
-**Post-conditions**: The user should be able to come back to their notes in the state they left their notes in  
+**Preconditions**: The user has created an account on the platform  
+**Post-conditions**: The user should have a workspace where they can take and edit notes  
 **Main Flow**:
-1. The user creates an account
-2. The user has joined a group formed by either an institution or business
-3. The user can write or draw notes
-4. The user should be able to save their notes and come back to them at a later date
+1. The user selects a workspace
+2. The user can write or draw notes
+3. The user should be able to save their notes and come back to them at a later date
 
 **Alternate Flow**:
 - None
 
-
 **Use Case:** Create group  
-**Actor:** The user  
+**Actor:** User  
 **Description:** The user creates a group to share notes with colleagues   
-**Preconditions:** User is not part of a group or want to start own group   
-**Post-conditions:** Own group started which can be set to private or public for other people to join  
+**Preconditions:** User is not part of a group or wants to start an existing group   
+**Post-conditions:** Created private or public group  
 **Main Flow:**
 1. The user adds a new group
 2. The user sets group name
 3. The user sets privacy settings
 
-**Alternate Flow:**
-3. Other people join group without permission(public)
+**Alternate Flow:**  
+3. Other people join group without needed permission (in the case of public groups)
 
 **Use Case**: Customize user interface  
 **Actor**: User  
-**Description**: The user customizes various app functionality to fit their needs.  
-**Preconditions**: Create account  
+**Description**: The user customizes various app functionality to fit their needs  
+**Preconditions**: The user has created an account on the platform  
 **Post-conditions**: User interface is adjusted according to customizations  
 **Main Flow**:
 1. The user views the current settings of the application
@@ -105,7 +104,7 @@ create notes. After which, we will implement the rest of our functional requirem
 **Use Case**: View notes  
 **Actor**: User  
 **Description**: The user is provided access to their notes.  
-**Preconditions**: The user has an Account  
+**Preconditions**: The user has an account  
 **Post-conditions**: The user can edit their notes or share them  
 **Main Flow**:
 1. The user selects the notes they want to view
@@ -136,14 +135,18 @@ experience."
 - “As a college student, I want to have a streamlined experience to easily access and save notes.”
 - “As a college student, I want to be able to take notes while still staying actively engage in class so that I can grasp
 information more efficiently and have quality notes to look back through."
-- “As a group member, I want to be able to share my notes with other members so that we can all learn and receive 
-information as a whole.”
+- "As a group member, I want to be able to share my notes with other members so that we can all learn and receive
+information as a whole."
+- As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
+experience.
 - “As a college student, I want to be able to share my notes with my colleagues so that I can spot potential errors and
 gain further insight.”
 - “As a professional, I want to be able to group my documents into folders so that I can keep each of my projects
 organized.”
-- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can make the most out of my time in classes.”
-- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and study better as a whole.”
+- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can 
+make the most out of my time in classes.”
+- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and 
+study better as a whole.”
 - "As a chemistry student, I want to be able to easily add and write chemical structures in my notes."
 - "As a college student, I want to be able to upload notes in different file formats.”
 
