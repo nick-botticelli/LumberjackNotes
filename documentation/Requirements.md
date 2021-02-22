@@ -65,6 +65,20 @@ create notes. After which, we will implement the rest of our functional requirem
 ### 6.1. Use case diagram
 
 ### 6.2. Use case descriptions and interface sketch
+
+**Use Case**: Take Notes  
+**Actor**: User  
+**Description**: The user creates a page where they are able to take notes  
+**Preconditions**: The user has created an account and is part of an institution or business organization  
+**Post-conditions**: The user should be able to come back to their notes in the state they left their notes in  
+**Main Flow**:
+1. The user creates an account
+2. The user has joined a group formed by either an institution or business
+3. The user can write or draw notes
+4. The user should be able to save their notes and come back to them at a later date
+**Alternate Flow**:
+- None
+
 **Use Case:** Create group
 
 
