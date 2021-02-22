@@ -21,6 +21,10 @@
 
 
 ## 6. Use cases
+
+### 6.1. Use case diagram
+
+### 6.2. Use case descriptions and interface sketch
 **Use Case:** Create group
 
 
@@ -46,11 +50,6 @@
 **Alternate Flow:**
 
 - Other people join group without permission(public)
-
-### 6.1. Use case diagram
-
-### 6.2. Use case descriptions and interface sketch
-
 
 ## 7. User stories
 
