@@ -140,28 +140,62 @@ existing account
 - None
 
 ## 7. User stories
-- “As a college student, I want to be able to insert documents into my notes so I can annotate and write other notes around them.”
-- “As a college student, I want to be able to snip and resize drawings in my notes so I can better organize my notes.”
-- "As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
-experience."
-- “As a college student, I want to have a streamlined experience to easily access and save notes.”
-- “As a college student, I want to be able to take notes while still staying actively engage in class so that I can grasp
-information more efficiently and have quality notes to look back through."
-- "As a group member, I want to be able to share my notes with other members so that we can all learn and receive
-information as a whole."
-- As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
-experience.
-- “As a college student, I want to be able to share my notes with my colleagues so that I can spot potential errors and
-gain further insight.”
-- “As a professional, I want to be able to group my documents into folders so that I can keep each of my projects
-organized.”
-- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can
-make the most out of my time in classes.”
-- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and
-study better as a whole.”
-- "As a chemistry student, I want to be able to easily add and write chemical structures in my notes."
-- "As a college student, I want to be able to upload notes in different file formats.”
+**User Story:** “As a college student, I want to be able to insert documents into my notes so I can annotate and write
+other notes around them.”  
+**Priority:** 1  
+**Estimated Hours:** 10
 
+**User Story:** “As a college student, I want to be able to snip and resize drawings in my notes so I can better
+organize my notes.”  
+**Priority:** 3  
+**Estimated Hours:** 8
+
+**User Story:** "As a college student, I want to be able customize my note-taking workspace to fit my specific needs to
+enhance my experience."  
+**Priority:** 3  
+**Estimated Hours:** 12
+
+**User Story:** - “As a college student, I want to have a streamlined experience to easily access and save notes.”  
+**Priority:** 1  
+**Estimated Hours:** 12
+
+**User Story:** “As a college student, I want to be able to take notes while still staying actively engaged in class so
+that I can grasp information more efficiently and have quality notes to look back through."  
+**Priority:** 1  
+**Estimated Hours:** 12
+
+**User Story:** "As a group member, I want to be able to share my notes with other members so that we can all learn and
+receive information as a whole."  
+**Priority:** 1  
+**Estimated Hours:** 10
+
+**User Story:** “As a professional, I want to be able to share my notes with my colleagues so that I can spot potential
+errors and gain further insight.”  
+**Priority:** 1  
+**Estimated Hours:** 10
+
+**User Story:** “As a professional, I want to be able to group my documents into folders so that I can keep each of my
+projects organized.”  
+**Priority:** 2  
+**Estimated Hours:** 6
+
+**User Story:** “As a college student, I want an easy to use interface that lets me get to the note taking part quickly
+so that I can make the most out of my time in classes.”  
+**Priority:** 3  
+**Estimated Hours:** 8
+
+**User Story:** “As a college student, I would like to be able to share my notes with my classmates so that we can
+collaborate and study better as a whole.”  
+**Priority:** 1  
+**Estimated Hours:** 10
+
+**User Story:** "As a chemistry student, I want to be able to easily add and write chemical structures in my notes"  
+**Priority:** 3  
+**Estimated Hours:** 8
+
+**User Story:** "As a college student, I want to be able to import documents for annotation in different file formats.”  
+**Priority:** 3  
+**Estimated Hours:**  8
 
 ## 8. Issue tracker
 Link: https://trello.com/b/3lbd1jw9/cs-386-notes-app
