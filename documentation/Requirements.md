@@ -146,3 +146,4 @@ organized.”
 
 
 ## 8. Issue tracker
+![Trello Screenshot](./images/Requirements_Trello_Screenshot.png)
