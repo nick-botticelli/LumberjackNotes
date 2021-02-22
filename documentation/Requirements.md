@@ -146,4 +146,5 @@ organized.”
 
 
 ## 8. Issue tracker
+Link: https://trello.com/b/3lbd1jw9/cs-386-notes-app
 ![Trello Screenshot](./images/Requirements_Trello_Screenshot.png)
