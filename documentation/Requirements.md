@@ -142,6 +142,9 @@ experience.
 gain further insight.”
 - “As a professional, I want to be able to group my documents into folders so that I can keep each of my projects
 organized.”
+- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can make the most out of my time in classes.”
+- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and study better as a whole.”
+
 
 
 ## 8. Issue tracker
