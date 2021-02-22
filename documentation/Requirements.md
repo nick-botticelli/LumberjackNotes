@@ -138,5 +138,8 @@ create notes. After which, we will implement the rest of our functional requirem
 - “As a college student, I want to be able to snip and resize drawings in my notes so I can better organize my notes.”
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
 experience.
+- “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can make the most out of my time in classes.”
+- “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and study better as a whole.”
+
 
 ## 8. Issue tracker
