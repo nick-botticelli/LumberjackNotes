@@ -107,7 +107,6 @@ create notes. After which, we will implement the rest of our functional requirem
 **Alternate Flow**:
 - None
 
-
 **Use Case**: View notes
 **Actor**: User
 **Description**: The user is provided access to their notes.
