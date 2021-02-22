@@ -120,7 +120,7 @@ create notes. After which, we will implement the rest of our functional requirem
 3. The user is given the options to either edit their notes or share them  
 	
 **Alternate Flow**:
-None 
+None  
 
 ## 7. User stories
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
