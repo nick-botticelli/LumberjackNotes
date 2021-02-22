@@ -126,6 +126,20 @@ create notes. After which, we will implement the rest of our functional requirem
 **Alternate Flow**:
 2. If the user already has an existing account, they can input their account credentials and log in.
 
+**Use Case**: Share notes
+**Actor**: User
+**Description**: The user shares notes with other users.
+**Preconditions**: The user has an account and is logged in.
+**Post-conditions**: The notes are uploaded to the system and are accessible by the other users.
+**Main Flow**: 
+1. The user selects the notes they want to upload.
+2. The user selects what other users get access to the notes.
+
+**Alternate Flow**: 
+1. The user selects a file format not supported by the system.
+2. The upload gets canceled.
+
+
 
 ## 7. User stories
 - “As a college student, I want to be able to insert documents into my notes so I can annotate and write other notes around them.”
