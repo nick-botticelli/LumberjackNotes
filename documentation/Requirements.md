@@ -63,6 +63,7 @@ create notes. After which, we will implement the rest of our functional requirem
 ## 6. Use cases
 
 ### 6.1. Use case diagram
+![Use Case Diagram](./images/Requirements_Use_Case_Diagram.png)
 
 ### 6.2. Use case descriptions and interface sketch
 
