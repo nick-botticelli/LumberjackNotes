@@ -90,12 +90,12 @@ create notes. After which, we will implement the rest of our functional requirem
 **Main Flow:**
 1. The user adds a new group
 2. The user sets group name
-3. The user sets privacy settings  
+3. The user sets privacy settings
+
 **Alternate Flow:**
-- Other people join group without permission(public) 
+- Other people join group without permission(public)
 
-
-**Use Case**: Customize user interface
+**Use Case**: Customize user interface  
 **Actor**: User  
 **Description**: The user customizes various app functionality to fit their needs.  
 **Preconditions**: Create account  
@@ -105,22 +105,33 @@ create notes. After which, we will implement the rest of our functional requirem
 2. The user configures the desired settings the way they want  
 
 **Alternate Flow**:
-- None 
+- None
 
-
-**Use Case**: View notes  
-**Actor**: User  
-**Description**: The user is provided access to their notes.  
-**Preconditions**: The user has an account  
-**Post-conditions**: The user can edit their notes or share them  
-**Main Flow**:
-
+**Use Case**: View notes
+**Actor**: User
+**Description**: The user is provided access to their notes.
+**Preconditions**: The user has an Account
+**Post-conditions**: The user can edit their notes or share them
+**Main Flow**:  
 1. The user selects the notes they want to view
 2. The user gets access to the notes
-3. The user is given the options to either edit their notes or share them  
-	
+3. The user is given the options to either edit their notes or share them
+
 **Alternate Flow**:
-None  
+- None
+
+**Use Case**: Create an account
+**Actor**: User
+**Description**: The user creates an account so they can use the application
+**Preconditions**: The user does not have an account in the system
+**Post-conditions**: The user has created an account and is registered in the system.
+**Main Flow**:
+1. The user downloads the application and opens it.
+2. The user inputs their account information.
+
+**Alternate Flow**: 
+2. If the user already has an existing account, they can input their account credentials and log in.
+
 
 ## 7. User stories
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
