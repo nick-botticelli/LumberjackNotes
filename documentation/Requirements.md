@@ -67,6 +67,33 @@ create notes. After which, we will implement the rest of our functional requirem
 
 ### 6.2. Use case descriptions and interface sketch
 
+**Use Case**: Take Notes  
+**Actor**: User  
+**Description**: The user creates a page where they are able to take notes  
+**Preconditions**: The user has created an account and is part of an institution or business organization  
+**Post-conditions**: The user should be able to come back to their notes in the state they left their notes in  
+**Main Flow**:
+1. The user creates an account
+2. The user has joined a group formed by either an institution or business
+3. The user can write or draw notes
+4. The user should be able to save their notes and come back to them at a later date
+
+**Alternate Flow**:
+- None
+
+
+**Use Case:** Create group  
+**Actor:** The user  
+**Description:** The user creates a group to share notes with colleagues   
+**Preconditions:** User is not part of a group or want to start own group   
+**Post-conditions:** Own group started which can be set to private or public for other people to join  
+**Main Flow:**
+1. The user adds a new group
+2. The user sets group name
+3. The user sets privacy settings
+
+**Alternate Flow:**
+- Other people join group without permission(public)
 
 **Use Case**: Customize user interface  
 **Actor**: User  
@@ -80,33 +107,35 @@ create notes. After which, we will implement the rest of our functional requirem
 **Alternate Flow**:
 - None
 
-**Use Case:** Create group
+**Use Case**: View notes  
+**Actor**: User  
+**Description**: The user is provided access to their notes.  
+**Preconditions**: The user has an Account  
+**Post-conditions**: The user can edit their notes or share them  
+**Main Flow**:
+1. The user selects the notes they want to view
+2. The user gets access to the notes
+3. The user is given the options to either edit their notes or share them
 
+**Alternate Flow**:
+- None
 
-**Actor:** The user
+**Use Case**: Create an account  
+**Actor**: User  
+**Description**: The user creates an account so they can use the application  
+**Preconditions**: The user does not have an account in the system  
+**Post-conditions**: The user has created an account and is registered in the system  
+**Main Flow**:
+1. The user downloads the application and opens it
+2. The user inputs their account information
 
+**Alternate Flow**:
+2. If the user already has an existing account, they can input their account credentials and log in.
 
-**Description:** The user creates a group to share notes with colleagues
-
-
-**Preconditions:** User is not part of a group or want to start own group
-
-
-**Post-conditions:** Own group started which can be set to private or public for other people to join
-
-
-**Main Flow:**
-
-- The user adds a new group
-- The user sets group name
-- The user sets privacy settings
-
-
-**Alternate Flow:**
-
-- Other people join group without permission(public)
 
 ## 7. User stories
+- “As a college student, I want to be able to insert documents into my notes so I can annotate and write other notes around them.”
+- “As a college student, I want to be able to snip and resize drawings in my notes so I can better organize my notes.”
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
 experience.
 
