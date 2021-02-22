@@ -145,6 +145,8 @@ gain further insight.”
 organized.”
 - “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can make the most out of my time in classes.”
 - “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and study better as a whole.”
+- "As a chemistry student, I want to be able to easily add and write chemical structures in my notes."
+- "As a college student, I want to be able to upload notes in different file formats.”
 
 
 ## 8. Issue tracker
