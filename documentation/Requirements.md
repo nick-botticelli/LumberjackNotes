@@ -107,12 +107,12 @@ create notes. After which, we will implement the rest of our functional requirem
 **Alternate Flow**:
 - None
 
-**Use Case**: View notes
-**Actor**: User
-**Description**: The user is provided access to their notes.
-**Preconditions**: The user has an Account
-**Post-conditions**: The user can edit their notes or share them
-**Main Flow**:  
+**Use Case**: View notes  
+**Actor**: User  
+**Description**: The user is provided access to their notes.  
+**Preconditions**: The user has an Account  
+**Post-conditions**: The user can edit their notes or share them  
+**Main Flow**:
 1. The user selects the notes they want to view
 2. The user gets access to the notes
 3. The user is given the options to either edit their notes or share them
@@ -120,16 +120,16 @@ create notes. After which, we will implement the rest of our functional requirem
 **Alternate Flow**:
 - None
 
-**Use Case**: Create an account
-**Actor**: User
-**Description**: The user creates an account so they can use the application
-**Preconditions**: The user does not have an account in the system
-**Post-conditions**: The user has created an account and is registered in the system.
+**Use Case**: Create an account  
+**Actor**: User  
+**Description**: The user creates an account so they can use the application  
+**Preconditions**: The user does not have an account in the system  
+**Post-conditions**: The user has created an account and is registered in the system  
 **Main Flow**:
-1. The user downloads the application and opens it.
-2. The user inputs their account information.
+1. The user downloads the application and opens it
+2. The user inputs their account information
 
-**Alternate Flow**: 
+**Alternate Flow**:
 2. If the user already has an existing account, they can input their account credentials and log in.
 
 
