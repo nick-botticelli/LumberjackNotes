@@ -108,10 +108,10 @@ create notes. After which, we will implement the rest of our functional requirem
 - None 
 
 
-**Use Case**: View notes 
+**Use Case**: View notes  
 **Actor**: User  
 **Description**: The user is provided access to their notes.  
-**Preconditions**: The user has an Account  
+**Preconditions**: The user has an account  
 **Post-conditions**: The user can edit their notes or share them  
 **Main Flow**:
 
