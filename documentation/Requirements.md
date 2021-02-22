@@ -129,11 +129,13 @@ create notes. After which, we will implement the rest of our functional requirem
 1. The user downloads the application and opens it.
 2. The user inputs their account information.
 
-**Alternate Flow**: 
+**Alternate Flow**:
 2. If the user already has an existing account, they can input their account credentials and log in.
 
 
 ## 7. User stories
+- “As a college student, I want to be able to insert documents into my notes so I can annotate and write other notes around them.”
+- “As a college student, I want to be able to snip and resize drawings in my notes so I can better organize my notes.”
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
 experience.
 
