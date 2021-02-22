@@ -21,28 +21,30 @@
 
 
 ## 6. Use cases
-Use Case: create group
+**Use Case:** Create group
 
 
-Actor: The user
+**Actor:** The user
 
 
-Description: The user creates a group to share notes with colleagues
+**Description:** The user creates a group to share notes with colleagues
 
 
-Preconditions: user is not part of a group or want to start own group
+**Preconditions:** User is not part of a group or want to start own group
 
 
-Post-conditions: own group started which can be set to private or public for other people to join
+**Post-conditions:** Own group started which can be set to private or public for other people to join
 
 
-Main Flow:
+**Main Flow:**
+
 - The user adds a new group
 - The user sets group name
 - The user sets privacy settings
 
 
-Alternate Flow:
+**Alternate Flow:**
+
 - Other people join group without permission(public)
 
 ### 6.1. Use case diagram
