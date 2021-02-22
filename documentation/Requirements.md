@@ -93,7 +93,7 @@ create notes. After which, we will implement the rest of our functional requirem
 3. The user sets privacy settings
 
 **Alternate Flow:**
-- Other people join group without permission(public)
+3. Other people join group without permission(public)
 
 **Use Case**: Customize user interface  
 **Actor**: User  
@@ -136,7 +136,10 @@ create notes. After which, we will implement the rest of our functional requirem
 ## 7. User stories
 - “As a college student, I want to be able to insert documents into my notes so I can annotate and write other notes around them.”
 - “As a college student, I want to be able to snip and resize drawings in my notes so I can better organize my notes.”
-- As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
-experience.
+- "As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
+experience."
+- "As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my experience."
+- "As a group member, I want to be able to share my notes with other members so that we can all learn and receive information as a whole."
+
 
 ## 8. Issue tracker
