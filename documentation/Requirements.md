@@ -73,11 +73,11 @@ create notes. After which, we will implement the rest of our functional requirem
 **Description**: The user customizes various app functionality to fit their needs.  
 **Preconditions**: Create account  
 **Post-conditions**: User interface is adjusted according to customizations  
-**Main Flow**:  
+**Main Flow**:
 1. The user views the current settings of the application
 2. The user configures the desired settings the way they want  
 
-**Alternate Flow**:  
+**Alternate Flow**:
 - None
 
 **Use Case:** Create group
