@@ -94,7 +94,7 @@ create notes. After which, we will implement the rest of our functional requirem
 - Other people join group without permission(public) 
 
 
-**Use Case**: Customize user interface  
+**Use Case**: Customize user interface
 **Actor**: User  
 **Description**: The user customizes various app functionality to fit their needs.  
 **Preconditions**: Create account  
@@ -107,15 +107,17 @@ create notes. After which, we will implement the rest of our functional requirem
 - None 
 
 
-**Use Case**: View notes
-**Actor**: User 
-**Description**: The user is provided access to their notes. 
-**Preconditions**: The user has an Account
-**Post-conditions**: The user can edit their notes or share them
-**Main Flow**:  
+**Use Case**: View notes 
+**Actor**: User  
+**Description**: The user is provided access to their notes.  
+**Preconditions**: The user has an Account  
+**Post-conditions**: The user can edit their notes or share them  
+**Main Flow**:
+
 1. The user selects the notes they want to view
-2. The user gets access to the notes 
-3. The user is given the options to either edit their notes or share them 	
+2. The user gets access to the notes
+3. The user is given the options to either edit their notes or share them  
+	
 **Alternate Flow**:
 None 
 
