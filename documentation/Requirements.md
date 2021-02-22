@@ -1,8 +1,6 @@
 # Requirements
-Group 04 - "[Lumberjack Notes]"
-
-Date and location: February 21, 2021
-
+Group 04 - "[Lumberjack Notes]"  
+Date and location: February 21, 2021  
 Group Members: Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas Botticelli, Collin Rampata, Kyle Austria
 
 ## 1. Positioning
@@ -20,23 +18,20 @@ accessibility and mobile-centered performance to help students stay more engaged
 
 ### 1.3. Value proposition and consumer segment
 
-**Value Proposition**
+**Value Proposition:**
 
 Lumberjack Notes is a free note-taking application designed to help students and professionals collaborate and share
 their notes with their colleagues.
 
-**Consumer Segment**
+**Consumer Segment:**
 
 High school students, university students, and professionals that need a more efficient way to take detailed notes.
 
 ## 2. Stakeholders
 
-**Users:** High school students, university students, and professionals.
-
-**Clients:** Academic Institutions and Businesses.
-
-**Competitors:** Evernote.
-
+**Users:** High school students, university students, and professionals.  
+**Clients:** Academic Institutions and Businesses.  
+**Competitors:** Evernote.  
 **Developers:** Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas Botticelli, Collin Rampata, and Kyle Austria.
 
 ## 3. Functional requirements
@@ -138,8 +133,13 @@ create notes. After which, we will implement the rest of our functional requirem
 - “As a college student, I want to be able to snip and resize drawings in my notes so I can better organize my notes.”
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
 experience.
+- “As a college student, I want to be able to share my notes with my colleagues so that I can spot potential errors and
+gain further insight.”
+- “As a professional, I want to be able to group my documents into folders so that I can keep each of my projects
+organized.”
 - “As a college student, I want an easy to use interface that lets me get to the note taking part quickly so that I can make the most out of my time in classes.”
 - “As a college student, I would like to be able to share my notes with my classmates so that we can collaborate and study better as a whole.”
+
 
 
 ## 8. Issue tracker
