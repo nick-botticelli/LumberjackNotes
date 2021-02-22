@@ -32,8 +32,11 @@ High school students, university students, and professionals that need a more ef
 ## 2. Stakeholders
 
 **Users:** High school students, university students, and professionals.
+
 **Clients:** Academic Institutions and Businesses.
+
 **Competitors:** Evernote.
+
 **Developers:** Gustavo Valencia, Armando Martinez, Stefan Mihailovic, Nicholas Botticelli, Collin Rampata, and Kyle Austria.
 
 ## 3. Functional requirements
