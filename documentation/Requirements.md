@@ -67,6 +67,18 @@ create notes. After which, we will implement the rest of our functional requirem
 
 ### 6.2. Use case descriptions and interface sketch
 
+**Use Case:** Create group  
+**Actor:** The user  
+**Description:** The user creates a group to share notes with colleagues   
+**Preconditions:** User is not part of a group or want to start own group   
+**Post-conditions:** Own group started which can be set to private or public for other people to join  
+**Main Flow:**
+1. The user adds a new group
+2. The user sets group name
+3. The user sets privacy settings  
+**Alternate Flow:**
+- Other people join group without permission(public) 
+
 
 **Use Case**: Customize user interface  
 **Actor**: User  
@@ -77,33 +89,7 @@ create notes. After which, we will implement the rest of our functional requirem
 1. The user views the current settings of the application
 2. The user configures the desired settings the way they want
 **Alternate Flow**:
-- None
-
-**Use Case:** Create group
-
-
-**Actor:** The user
-
-
-**Description:** The user creates a group to share notes with colleagues
-
-
-**Preconditions:** User is not part of a group or want to start own group
-
-
-**Post-conditions:** Own group started which can be set to private or public for other people to join
-
-
-**Main Flow:**
-
-- The user adds a new group
-- The user sets group name
-- The user sets privacy settings
-
-
-**Alternate Flow:**
-
-- Other people join group without permission(public)
+- None 
 
 ## 7. User stories
 - As a college student, I want to be able customize my note-taking workspace to fit my specific needs to enhance my
