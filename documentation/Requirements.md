@@ -135,8 +135,8 @@ create notes. After which, we will implement the rest of our functional requirem
 experience."
 - “As a college student, I want to be able to take notes while still staying actively engage in class so that I can grasp
 information more efficiently and have quality notes to look back through."
-- "As a group member, I want to be able to share my notes with other members so that we can all learn and receive 
-information as a whole."
+- “As a group member, I want to be able to share my notes with other members so that we can all learn and receive 
+information as a whole.”
 - “As a college student, I want to be able to share my notes with my colleagues so that I can spot potential errors and
 gain further insight.”
 - “As a professional, I want to be able to group my documents into folders so that I can keep each of my projects
