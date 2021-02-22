@@ -90,10 +90,10 @@ create notes. After which, we will implement the rest of our functional requirem
 **Main Flow:**
 1. The user adds a new group
 2. The user sets group name
-3. The user sets privacy settings  
+3. The user sets privacy settings
+
 **Alternate Flow:**
 - Other people join group without permission(public)
-
 
 **Use Case**: Customize user interface  
 **Actor**: User  
