@@ -48,7 +48,7 @@ understanding of the client-server architecture in LumberJack Notes.
 
 
 ## 6. Licensing
-
+We adopted the MIT license for its simplicity and permissibility, allowing others to modify and redistribute our code freely.
 
 ## 7. Readme File
 
