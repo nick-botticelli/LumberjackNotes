@@ -20,7 +20,11 @@ Trello: https://trello.com/b/3lbd1jw9/cs-386-notes-app
 
 
 ## 4. Learning/Training
-
+Our team’s learning strategy is to divide research topics among group members and build a basic “Hello World” 
+proof-of-concept application using Android Studio to familiarize ourselves with the process of constructing an Android
+application. Knowing the basic functions of the IDE will help prepare us for development of the project. Certain group
+members researched Cloud-based services and presented their findings to the team. This allowed us to gain a general
+understanding of the client-server architecture in LumberJack Notes.
 
 ## 5. Deployment
 
