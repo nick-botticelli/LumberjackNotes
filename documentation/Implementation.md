@@ -41,7 +41,10 @@ understanding of the client-server architecture in LumberJack Notes.
 
 
 ## 7. Readme File
-
+- [README.md](https://github.com/CS386-Group-4/LumberjackNotes/blob/implementation_document/README.md)
+- [CONTRIBUTING.md](https://github.com/CS386-Group-4/LumberjackNotes/blob/implementation_document/CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](https://github.com/CS386-Group-4/LumberjackNotes/blob/implementation_document/CODE_OF_CONDUCT.md)
+- [LICENSE](https://github.com/CS386-Group-4/LumberjackNotes/blob/implementation_document/LICENSE)
 
 ## 8. Look & feel
 
