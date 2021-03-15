@@ -25,15 +25,15 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of cond
 
 ## Versioning
 TODO: link to available versions
-We use [SemVer](semver.org) for versioning. For the versions available, see the [tags on this repository](TODO: link to the available versions)
+We use [SemVer](https://semver.org/) for versioning. For the versions available, see the [tags on this repository](TODO: link to the available versions)
 
 ## Authors
-- Nick Botticelli - *initial work* - nick-botticelli
-- Gustavo Valencia - *initial work* - GustavoMiguelValencia
-- Armando Martinez - *initial work* - AmduX64
-- Collin Rampata - *initial work* - Crampata
-- Stefan Mihailovic - *initial work* - Night6SrKn
-- Kyle Austria - *initial work* - kyleaustria8
+- Nick Botticelli - *initial work* - [nick-botticelli](https://github.com/nick-botticelli)
+- Gustavo Valencia - *initial work* - [GustavoMiguelValencia](https://github.com/GustavoMiguelValencia)
+- Armando Martinez - *initial work* - [AmduX64](https://github.com/AmduX64)
+- Collin Rampata - *initial work* - [Crampata](https://github.com/Crampata)
+- Stefan Mihailovic - *initial work* - [Night6SrKn](https://github.com/Night6SrKn)
+- Kyle Austria - *initial work* - [kyleaustria8](https://github.com/kyleaustria8)
 
 ## License
-This project is licensed under the MIT License - see the [License.md](./LICENSE) file for details.
+This project is licensed under the MIT License - see [LICENSE](./LICENSE) file for details.
