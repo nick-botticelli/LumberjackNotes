@@ -1,5 +1,5 @@
 # LumberjackNotes
-Version: 0.1.0
+**Version: 0.1.0**
 
 Lumberjack Notes is a note-taking application that improves both professionals’ and students’ note-taking ability by offering an easy, quick way of accessing the user interface. It also allows users to effectively share their notes with colleagues enhancing communication and collaboration remotely, which is significant in today’s time.
 
@@ -28,12 +28,12 @@ TODO: link to available versions
 We use [SemVer](semver.org) for versioning. For the versions available, see the [tags on this repository](TODO: link to the available versions)
 
 ## Authors
-Nick Botticelli - *initial work* - nick-botticelli
-Gustavo Valencia - *initial work* - GustavoMiguelValencia
-Armando Martinez - *initial work* - AmduX64
-Collin Rampata - *initial work* - Crampata
-Stefan Mihailovic - *initial work* - Night6SrKn
-Kyle Austria - *initial work* - kyleaustria8
+- Nick Botticelli - *initial work* - nick-botticelli
+- Gustavo Valencia - *initial work* - GustavoMiguelValencia
+- Armando Martinez - *initial work* - AmduX64
+- Collin Rampata - *initial work* - Crampata
+- Stefan Mihailovic - *initial work* - Night6SrKn
+- Kyle Austria - *initial work* - kyleaustria8
 
 ## License
 This project is licensed under the MIT License - see the [License.md](./LICENSE) file for details.
